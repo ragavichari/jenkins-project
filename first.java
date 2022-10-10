@@ -1,5 +1,5 @@
 public class first{
 public static  void main(String[]args){
-System.out.println("hi git repository");
+System.out.println("hi git edited repository");
 }
 }
